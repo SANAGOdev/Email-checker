@@ -9,4 +9,4 @@
 
 - ## Open a new terminal in the folder where you have the files. Do `npm install`
 ## /!\ You need to download [Node.js](https://nodejs.org/en)
-- ## After installing dependencies, you need to have an email list as "email.txt" and you can start the script with `node index.js`.
+- ## After installing dependencies, you need to have an email list as "email.txt" and proxy list as "proxy.txt" then you can start the script with `node index.js`.
